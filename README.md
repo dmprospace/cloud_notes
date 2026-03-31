@@ -1,1 +1,1 @@
-git.png [.\git.png]
+git.png [.\Git.png]
