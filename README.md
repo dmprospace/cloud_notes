@@ -1,4 +1,4 @@
-![ LI_AZURE_VS_AWS.jpg ](./1756143605518.jpg)
+![ LI_AZURE_VS_AWS.jpg ](./LI_AZURE_VS_AWS.jpg)
 
 
 
